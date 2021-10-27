@@ -1,0 +1,59 @@
+ #container{
+    width: 400px;
+    height: 550px;
+    margin-left: 450px;
+    margin-top: 50px;
+    background-color:rgb(24, 23, 23);
+    padding-left: 30px;
+    color: whitesmoke;
+}
+
+#cm{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+
+}
+
+#kg{
+    width: 150px;
+    height: 25px;
+  
+
+}
+
+#weightguide{
+    margin-left: 100px;
+    margin-top:50px ;
+
+}
+
+#result{
+    font-size: 35px;
+    margin-left: 170px;
+    color:blueviolet;
+
+}
+#submit{
+     width: 120px;
+     height: 40px;
+     margin-left: 150px;
+     margin-top: 20px;
+     border: 2px solid green;
+     border-radius: 10px;
+     background-color: rgb(24, 41, 4);
+     color:whitesmoke;
+     font-size: 20px;
+}
+body{
+    background-color: thistle;
+
+}
+h1{
+    padding-top: 30px;
+   text-align: center;
+}
+p{
+    color: whitesmoke;
+    margin-left: 70px;
+}
